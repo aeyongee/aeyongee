@@ -7,7 +7,8 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+    <div style="margin: ; text-align: left;" "text-align: left;"> 
+          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white">
           <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white">
