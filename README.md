@@ -22,9 +22,6 @@
           <br/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
           </div>
     </div>
-    
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="295d48ad-098d-467c-91b5-9e2abf80471f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:rlaehdehd20@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:rlaehdehd20@gmail.com"> </a>
