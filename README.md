@@ -47,10 +47,11 @@
 </div>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 GitHub Stats </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Certifications </h2>
   <br>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aeyongee&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeyongee&layout=compact&theme=radical" />
+  <div style="text-align: left;">
+    <a href="https://www.credly.com/badges/295d48ad-098d-467c-91b5-9e2abf80471f/public_url" target="_blank">
+      <img src="https://images.credly.com/size/220x220/images/2704044a-953e-425b-9143-6c8c4a631f4a/image.png" width="150" height="150" alt="AWS Certified Developer – Associate">
+    </a>
   </div>
 </div>
