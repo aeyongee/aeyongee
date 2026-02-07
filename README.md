@@ -78,3 +78,5 @@
   - `2025.12` : AWS Certified Solutions Architect(SAA-C03) - Associate 취득
   
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
