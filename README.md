@@ -25,8 +25,11 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:rlaehdehd20@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:rlaehdehd20@gmail.com"> </a>
-          </div>  <br> 
+    <div style="text-align: left;">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:rlaehdehd20@gmail.com">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%8F%99%EC%A3%BC-%EA%B9%80-104a602a9/">
+    </div>  
+        <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
