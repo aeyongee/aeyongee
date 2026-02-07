@@ -50,7 +50,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 GitHub Stats </h2>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=본인의ID&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인의ID&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aeyongee&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeyongee&layout=compact&theme=radical" />
   </div>
 </div>
